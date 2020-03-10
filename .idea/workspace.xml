@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fda86046-830a-49bf-ba99-3510c409f7e6" name="Default Changelist" comment="" />
+    <list default="true" id="fda86046-830a-49bf-ba99-3510c409f7e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sainsburys-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sainsburys-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/annjbarr/sainsburys/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/annjbarr/sainsburys/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/annjbarr/sainsburys/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/annjbarr/sainsburys/services/ProductService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,10 +33,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1YibYGQ2YBGPNeIIL3v8HUASDhb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -55,9 +77,33 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="449" y="132" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.826@0.23.1440.826" timestamp="1583428723468" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1583429179983">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583429179983" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1583429179981">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583429179981" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1583429179979">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583429179979" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1583429179982">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583429179982" />
+    <state x="258" y="98" key="Maven.ArtifactSearchDialog" timestamp="1583429431943">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="258" y="98" key="Maven.ArtifactSearchDialog/0.23.1440.826@0.23.1440.826" timestamp="1583429431943" />
     <state x="413" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1583428420519">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="413" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1583428420519" />
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1583429277088">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1583429277088" />
   </component>
 </project>
